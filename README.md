@@ -10,4 +10,5 @@ Step 5: Initialisation of Terraform
 Step 6: Run "terraform plan" command
 Step 7: Run "terraform apply" command
 Step 8: After running Terraform, we will get a URL that gives access to our website. Copy and paste the URL into your browser.
+MY PORTFOLIO URL: "http://my-portfolio-460322-portfolio.storage.googleapis.com/index.html"
 Finished....... The deployment of a wensite using GCP is done.
